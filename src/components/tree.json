@@ -1,0 +1,51 @@
+[
+  {
+    "leaf": false,
+    "title": "医院1",
+    "key": "org_1",
+    "children": [
+      {
+        "leaf": true,
+        "title": "科室1-1",
+        "key": "det_11"
+      },
+      {
+        "leaf": true,
+        "title": "科室1-2",
+        "key": "det_12"
+      },
+      {
+        "leaf": true,
+        "title": "科室1-3",
+        "key": "det_13"
+      }
+    ]
+  },
+  {
+    "leaf": false,
+    "title": "医院2",
+    "key": "org_2",
+    "children": [
+      {
+        "leaf": true,
+        "title": "科室2-1",
+        "key": "det_21"
+      },
+      {
+        "leaf": true,
+        "title": "科室2-2",
+        "key": "det_22"
+      },
+      {
+        "leaf": true,
+        "title": "科室2-3",
+        "key": "det_23"
+      }
+    ]
+  },
+  {
+    "leaf": false,
+    "title": "医院",
+    "key": "org_3"
+  }
+]
